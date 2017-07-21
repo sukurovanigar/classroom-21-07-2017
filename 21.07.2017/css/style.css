@@ -1,0 +1,9 @@
+@font-face {
+    font-family: eli;
+    src: url("../fonts/Banana-Yeti-Extrabold.otf");
+}
+
+span{
+    font-family: eli;
+    font-size: 20px;
+}
